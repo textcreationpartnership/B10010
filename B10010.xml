@@ -1,0 +1,151 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Several plain and weighty reasons for removing the sacramental test, humbly proposed to consideration.</title>
+         </titleStmt>
+         <extent>Approx. 9KB of XML-encoded text transcribed from 2 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">B10010</idno><idno type="EEBO-CITATION">69648927</idno>
+  <idno type="VID">185079</idno>
+  <idno type="EEBO-PROQUEST">2240859190</idno>
+  
+            <idno type="STC">Wing S2796A</idno>
+            <idno type="STC">ESTC R183766</idno>
+            <idno type="OCLC">69648927</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-e"/>
+            <note>(EEBO-TCP ; phase 2, no. B10010)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 185079)</note>
+            <note>Images scanned from microfilm: (Early English Books, 1641-1700 ; 2886:6)</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Several plain and weighty reasons for removing the sacramental test, humbly proposed to consideration.</title>
+               </titleStmt>
+               <extent>1 sheet ([2] p.).   </extent>
+               <publicationStmt>
+                  <publisher>Printed and are to be sold by Richard Baldwin, next door to the Black Bull in the Old-Bailey,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1689.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>"Licensed and entred according to order."</note>
+                  <note>Reproduction of original in: Cambridge University Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">Church of England --  Government --  Early works to 1800.</term>
+               <term type="topical_term">Church and state --  England --  Early work to 1800.</term>
+               <term type="geographic_name">Great Britain --  History --  William and Mary, 1689-1702.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1689-1702.</term>
+               <term type="genre_form">Broadsides --  England --  17th century.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-06 </date>
+            <label>Apex CoVantage</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride </label>Sampled and proofread </change>
+         <change>
+            <date>2014-08 </date>
+            <label>Maria Cecilia Caride</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <body>
+         <div type="document">
+            <pb n="1" facs="tcp:185079:1"/>
+            <head>Several Plain and Weighty REASONS for removing The Sacramental Test, Humbly Proposed to Consideration.</head>
+            <q>
+               <floatingText xml:lang="eng">
+                  <body>
+                     <div type="license">
+                        <p>Licensed and Entred according to Order.</p>
+                     </div>
+                  </body>
+               </floatingText>
+            </q>
+            <p n="1">
+               <label>
+                  <hi>Reason</hi> I. </label> ALL Laws which do not agree with the Divine Law, ought to be re<g ref="char:EOLhyphen"/>pealed. It is true, that the Supream Law<g ref="char:EOLhyphen"/>giver has left humane Societies, at Liberty to Establish such Laws, as They in Pru<g ref="char:EOLhyphen"/>dence, shall judge will most conduce to their External welfare, or Political well being: Provided always, That they Exact nothing that is repugnant, to <hi>THE DI<g ref="char:EOLhyphen"/>VINE LAW.</hi> But let it be considered, whether the Sacramental Test is not so. For, the <hi>Holy Sacrament</hi> was not appoint<g ref="char:EOLhyphen"/>ed by the Lord Jesus Christ, to be used as a Qualification for Civil Offices, but for other Sacred Ends and Purposes. And therefore to use it as a Test for Civil Employments, is to Pervert and Corrupt an Holy Ordinance of God, and conse<g ref="char:EOLhyphen"/>quently to Transgress the Divine Law.</p>
+            <p n="2">
+               <label>
+                  <hi>Reason</hi> II.</label> The Impleaded Test is not consonant with the Doctrine of the Church of <hi>England.</hi> For our Church has Taught (as the Scriptures do) that Un<g ref="char:EOLhyphen"/>worthy Receivers ought not to be ad<g ref="char:EOLhyphen"/>mitted to the Lord's Table, In our Li<g ref="char:EOLhyphen"/>turgy it is declared, That <hi>so many as intend to be Partakers of the Holy Communion, shall signifie their Names,</hi> &amp;c. <hi>And if any of them be an Open and Notorious evil Liver, the Curate having knowledge thereof, shall advertise him, that in any wise He presume not to Come to the Lord's Table, until He has openly declared himself to have repented and amended his former naughty life.</hi> And the Priest is by our Liturgy required to Say to the Communicants, <hi>That They are to Examine their Lives and Conversations by the rule of God's Commandments, and that They must be ready to make restitution to those whom They have wronged: For other<g ref="char:EOLhyphen"/>wise the Receiving of the Holy Communion does nothing else but increase their Damnation. Therefore if any of you be a Blasphemer of God, an Hinderer and Slanderer of His Word, an Adulterer, or in Malice, or in Envy, or in any other grievous Crime, Repent you of your Sins, or else come not to that Holy Table, lest after the taking of the Sacrament, the Devil enter into you as he entered into</hi> Judas, <hi>and fill you full of all Iniquities, and bring you to Destruction both of Body and Soul.</hi> These words are in the Common-Prayer Book. It is moreover therein truly asserted, <hi>That in the Primitive Church there was a Godly Discipline whereby such Persons as stood con<g ref="char:EOLhyphen"/>victed of notorious Sin were put to shame, and that it is much to be wished that the said Discipline may be restored again.</hi> But how is it possible for the Godly Disci<g ref="char:EOLhyphen"/>pline of the Primitive Church to be restored again as long as the <hi>Sacramental-Test</hi> is in force? It is pretended that by means hereof the Church of <hi>England</hi> is Established: But if we go about to Esta<g ref="char:EOLhyphen"/>blish our Church by a Practice or by a Law which is contrary to the sound Do<g ref="char:EOLhyphen"/>ctrine therein professed, I am afraid that we shall thereby, rather occasion our own Ruin than any thing else.</p>
+            <p n="3">
+               <label>
+                  <hi>Reason</hi> III.</label> The Sacramental Test has been a Cause of very much Sin. For it hath caused a Sacred Institution of Christ to be polluted, and the Blood of the Son of God to be prophan'd by Multitudes. It is certainly a great Sin to Administer the Sacrament to any that are known to be unmeet Subjects thereof. <hi>Calvin</hi> was a Presbyterian, and therefore I omit to mention that He and several other Pro<g ref="char:EOLhyphen"/>testant Divines were Banished from <hi>Ge<g ref="char:EOLhyphen"/>neva,</hi> because They refused to give the Sacrament to some very Scandalous Per<g ref="char:EOLhyphen"/>sons there. But methinks old St. <hi>Chry<g ref="char:EOLhyphen"/>sostom</hi>'s
+<pb n="2" facs="tcp:185079:2"/> words are of weight▪ who profes<g ref="char:EOLhyphen"/>seth▪ That <hi>He would sooner have his right Hand cut off, than He would give the Body and Blood of Christ to a known wicked Man.</hi> But the Sacramental-Test-Law, puts the Ministers of our Church on great Temp<g ref="char:EOLhyphen"/>tation to do thus. It has also caused many whose Consciences assure Them, that if They partake at the Lord's Table, They shall Eat and Drink Damnation to Them<g ref="char:EOLhyphen"/>selves, yet to venture. The too true Relation of a Prophane man, who that so he might not by means of the Sacramental Test, be deprived of his Livelyhood, re<g ref="char:EOLhyphen"/>solved to present himself at the Lord's Table but there declared to some that sat by Him, He would Eat that Bread, and Drink that Wine only as Common Bread, and Wine, is much talked of. Yea, and this Sacramental Test hath har<g ref="char:EOLhyphen"/>dened the <hi>Papists,</hi> and caused Them to Blaspheme the <hi>Protestant Religion,</hi> and in a peculiar manner▪ our Church of <hi>England.</hi> I remember a <hi>Roman Catholick</hi> did in my Hearing protest He was resolved to Pub<g ref="char:EOLhyphen"/>lish in Print a Passage relating to this Sub<g ref="char:EOLhyphen"/>ject, which Himself (he said) knew to be true. It was this: A Gentleman (whose Name and all the Circumstances of Time and Place▪ he mentioned) because of the Law, presented himself at the Sacrament. But the Night before He made himself Horribly Drunk: And when He came the next Day to receive the Cup of the Lord, with a fearful Oath in his Mouth, He de<g ref="char:EOLhyphen"/>manded of the Curate, Why He did not get better Wine for them than that was? The Curate replied▪ It was the best He could procure. The Gentleman rejoyned with horrid Execrations (which I abhor to mention) that if He had sent to Him, He would have given him better. The <hi>Papist</hi> did from this in my hearing take occasion to revile <hi>Protestants,</hi> but especial<g ref="char:EOLhyphen"/>ly us who are of the Church of <hi>England.</hi>
+            </p>
+            <q>
+               <l>—<hi>Pudet haec opprobria Nobis</hi>
+               </l>
+               <l>
+                  <hi>Haec dici potuisse, &amp; non potuisse refelli.</hi>
+               </l>
+            </q>
+            <p n="4">
+               <label>
+                  <hi>Reason</hi> IV.</label> If there be not a Refor<g ref="char:EOLhyphen"/>mation as to this particular, we have cause to fear that some Publick National Judg<g ref="char:EOLhyphen"/>ment will fall upon us, as a Testimony of God's righteous Displeasure. For as long as this Test is Established by Law, it be<g ref="char:EOLhyphen"/>comes a National Evil. If a Nation be guilty of Prophaning or Perverting any Ordinance of Christ, that infers a Natio<g ref="char:EOLhyphen"/>nal guilt. The famous Church of <hi>Corinth</hi> was exposed to an heavy Judgment from Heaven on this account. And why may not the Church▪ of <hi>England</hi> fear lest it should be so with Them. It was a cele<g ref="char:EOLhyphen"/>brated Saying of the Learned <hi>Paraeus, I wonder not that God has▪ visited</hi> Germany <hi>with the Sword, when I Consider how the Sa<g ref="char:EOLhyphen"/>crament of the Lord's Supper has been Pro<g ref="char:EOLhyphen"/>phaned.</hi> I pray, that the Holy God may not be provoked to pour out the Blood of our Nation, because so many therein have prophaned the Blood of his Son▪</p>
+            <p n="5">
+               <label>
+                  <hi>Reason</hi> V.</label> It is for the King's Interest That the <hi>Sacramental-Test</hi> should be taken away. For by means thereof, many wor<g ref="char:EOLhyphen"/>thy Persons and good <hi>Protestants,</hi> who are every way Qualified for Publick Employ<g ref="char:EOLhyphen"/>ments, are made uncapable of Serving His Majesty, the English Nation, or the <hi>Protestant</hi> Interest: Had this Test been imposed on the <hi>London-Derry</hi> or <hi>Iniskilling</hi> Men a few Months ago, all <hi>Ireland</hi> had been lost before this day. And had this Test been insisted on among the <hi>Scots,</hi> His present Majesty would probably have lost that Kingdom also. Many Good and Wise Men are of Opinion that this (more than any thing else) has been the Cause of the unsuccessfulness of our Armies and Navies, and that nothing can be thought of, which at this Juncture will more Effe<g ref="char:EOLhyphen"/>ctually promote the Interest of the <hi>Papists,</hi> than to continue a Test which does so un<g ref="char:EOLhyphen"/>happily divide <hi>Protestants</hi> one from ano<g ref="char:EOLhyphen"/>ther, making them Unable to afford their Joynt-assistance against the Common Ene<g ref="char:EOLhyphen"/>my. We that are of the Church of <hi>Eng<g ref="char:EOLhyphen"/>land,</hi> acknowledge that Receiving the Sacrament, just after our Mode is only an Ecclesiastical, and not a Divine Institution. Shall we for a Ceremony which may law<g ref="char:EOLhyphen"/>fully be removed, hazard the Ruin of the Nation! and the whole <hi>Protestant Interest</hi> in the World also? No doubt but that our wise Senators will seriously consider of these things before it be too late.</p>
+         </div>
+      </body>
+      <back>
+         <div type="colophon">
+            <p>
+               <hi>London,</hi> Printed and are to be Sold by <hi>Richard Baldwin,</hi> next Door to the <hi>Black Bull</hi> in the <hi>Old-Bailey.</hi> 1689.</p>
+         </div>
+      </back>
+   </text>
+</TEI>
